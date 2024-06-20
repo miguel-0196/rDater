@@ -1,6 +1,7 @@
 # Random date list generator between a specific period
 
-``F:\>python rDater.py````
+```
+F:\>python rDater.py
 Mon Jun 05 17:47:31 2023
 Thu Jun 08 16:19:03 2023
 Mon Jun 12 22:33:19 2023
@@ -74,3 +75,4 @@ Sun Dec 24 21:02:25 2023
 Wed Dec 27 15:38:56 2023
 Fri Dec 29 16:03:55 2023
 Mon Jan 01 18:48:10 2024
+```
